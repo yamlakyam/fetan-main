@@ -7,4 +7,31 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--    BUTTONS -->
+    <style name="button" parent="Widget.AppCompat.Button">
+        <item name="android:minWidth">150dp</item>
+    </style>
+
+    <style name="button.light" />
+    <style name="button.dark">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="button.dark.blue">
+        <item name="android:background">@color/blue</item>
+    </style>
+    <style name="button.dark.orange">
+        <item name="android:background">@color/orange</item>
+    </style>
+
+    <style name="blue_label">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="blue_label.title">
+        <item name="android:textSize">28sp</item>
+    </style>
+
 </resources>
