@@ -1,6 +1,7 @@
 package com.gebeya.fetan
 
 import android.content.Intent
+import android.os.Build
 import android.os.Bundle
 import com.gebeya.fetan.framework.base.BaseActivity
 import kotlinx.android.synthetic.main.activity_welcome.*
