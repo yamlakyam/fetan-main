@@ -5,4 +5,18 @@
     <string name="welcome_title">Faster. Healthier.</string>
     <string name="welcome_description">Stay in shape and track your runs with Fetan</string>
     <string name="welcome_continue">Continue</string>
+
+    <!--    HOME -->
+    <string name="home_no_runs_label">No runs found</string>
+    <string name="home_add_run">@string/add_run_title</string>
+
+    <!--    ADD RUN-->
+    <string name="add_run_title">Add Run</string>
+    <string name="add_run_distance_hint">Distance (meters)</string>
+
+    <string name="add_run_time_label">Time (minutes)</string>
+    <string name="add_run_time_hint">0 min</string>
+
+    <string name="add_run_save">Save Run</string>
+
 </resources>
